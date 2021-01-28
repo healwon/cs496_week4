@@ -4,7 +4,7 @@ Escape Madcamp (AR Escape game with Unity engine and AR Foundation)
 by 김선효, 최예원  
 
 1. Application:  
-https://drive.google.com/file/d/1y3sCp2sN8vNURyHVQyGcl5627fLb4cHr/view?usp=sharing
+https://drive.google.com/file/d/1dzKtuGeVYbgKBewAT_Jc9sksi7qpzfB7/view?usp=sharing
 
 2. Language: Korean
 
